@@ -3,7 +3,7 @@ import { useFetch, type FetchResult, type UseFetchOptions, useNuxtApp } from '#a
 import type { Ref } from 'vue'
 import type { FetchError } from 'ofetch'
 import type { NitroFetchRequest, AvailableRouterMethod } from 'nitropack'
-import type { AsyncData, KeysOf, PickFrom } from 'nuxt/dist/app/composables/asyncData'
+import type { AsyncData, KeysOf, PickFrom } from '#app/composables/asyncData'
 
 export function useCsrfFetch<
   ResT = void,
