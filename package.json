@@ -49,6 +49,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/morgbn/nuxt-csurf.git"
+    "url": "https://github.com/onlymix/nuxt-csurf.git"
   }
 }
